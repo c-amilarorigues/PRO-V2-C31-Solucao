@@ -1,1 +1,2 @@
-# PRO-V2-C31-Solucao
+# zombie-crush-3
+project solution of c31
